@@ -8,7 +8,7 @@ from PIL import Image
 ######################
 
 st.header("""
- Bio web app
+ Bioinformatics web app
  By: Ali Siddique
 """
 )
